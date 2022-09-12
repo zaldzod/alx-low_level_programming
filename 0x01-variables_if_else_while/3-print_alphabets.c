@@ -16,7 +16,7 @@ int lower_x = tolower(x);
 putchar(lower_x);
 }
 int y;
-for (x = 'A'; x <= 'Z'; x++)
+for (y = 'A'; x <= 'Z'; x++)
 {
 putchar(x);
 }
