@@ -10,7 +10,8 @@ int count;
 count = 0;
 while (count < 10)
 {
-for (x = 'a' ; x <= 'z'; x++){
+for (x = 'a' ; x <= 'z'; x++)
+{
 _putchar(x);
 }
 count++;
